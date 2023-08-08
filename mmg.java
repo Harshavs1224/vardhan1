@@ -1,6 +1,6 @@
 import java.util.*;
-public class mmg
+public class external
 {
 public static void main(String args[])
-system.out.println("hii prends");
+system.out.println("hii welcome");
 }
